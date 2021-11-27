@@ -1,0 +1,27 @@
+{
+  "name": "centro-cli2",
+  "version": "1.0.0",
+  "description": "Cli for configurations involving nodes and panel, Beta Version for now!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://cli.centryhost.com"
+  },
+  "bin": "cli.js",
+  "keywords": [
+    "CLI",
+    "Discord",
+    "Hosting",
+    "Centry",
+    "Hosting",
+    "Panel"
+  ],
+  "author": "Centry Hosting",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
