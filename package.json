@@ -1,5 +1,5 @@
 {
-  "name": "centro-cli",
+  "name": "centrohostingcli",
   "version": "1.0.0",
   "description": "A CLI",
   "main": "index.js",
