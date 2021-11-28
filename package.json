@@ -1,5 +1,5 @@
 {
-  "name": "@elonmuskjr/cli",
+  "name": "centro-cli",
   "version": "1.0.0",
   "description": "A CLI",
   "main": "index.js",
@@ -13,15 +13,11 @@
   },
   "keywords": [
     "Discord",
-    "Hosting",
-    "Cli",
-    "Centry",
-    "Hosting",
-    "ProCloud"
+    "CLI",
+    "Hosting"
   ],
   "author": "Elon Arthur Olson",
-  "bin": "cli.js",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ProCloudLtd/Centro-Npm/issues"
   },
