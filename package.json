@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://cli.centryhost.com"
+    "url": "git+https://github.com/ProCloudLtd/Centro-Npm.git"
   },
   "bin": "cli.js",
   "keywords": [
