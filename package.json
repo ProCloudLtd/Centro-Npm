@@ -20,8 +20,5 @@
     "Panel"
   ],
   "author": "Centry Hosting",
-  "license": "MIT",
-  "dependencies": {
-    "axios": "^0.24.0"
-  }
+  "license": "MIT"
 }
