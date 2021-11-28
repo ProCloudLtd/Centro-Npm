@@ -1,8 +1,9 @@
 {
-  "name": "centro-cli2",
+  "name": "@elonmuskjr/cli",
   "version": "1.0.0",
-  "description": "Cli for configurations involving nodes and panel, Beta Version for now!",
+  "description": "A CLI",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,15 +11,19 @@
     "type": "git",
     "url": "git+https://github.com/ProCloudLtd/Centro-Npm.git"
   },
-  "bin": "cli.js",
   "keywords": [
-    "CLI",
     "Discord",
     "Hosting",
+    "Cli",
     "Centry",
     "Hosting",
-    "Panel"
+    "ProCloud"
   ],
-  "author": "Centry Hosting",
-  "license": "MIT"
+  "author": "Elon Arthur Olson",
+  "bin": "cli.js",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProCloudLtd/Centro-Npm/issues"
+  },
+  "homepage": "https://github.com/ProCloudLtd/Centro-Npm#readme"
 }
