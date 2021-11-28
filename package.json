@@ -1,5 +1,5 @@
 {
-  "name": "centrohostingcli",
+  "name": "centry-cli",
   "version": "1.0.0",
   "description": "A CLI",
   "main": "index.js",
